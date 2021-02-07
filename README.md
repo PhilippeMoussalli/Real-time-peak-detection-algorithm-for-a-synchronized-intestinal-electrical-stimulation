@@ -12,7 +12,7 @@ The epidemic of obesity has seen a rise in numbers throughout the last decades d
 
 **Synchronized intestinal electical stimulation** has been proposed as a variant of IES where the electrical stimulation is delivered in synchrony with the peaks of the intestinal slow waves of the intestines to accelerate and enhance the effect of IES (in IES, the electrical stimulation is delivered at a random phase).  
 
-<img src="/figures/slow_wave_rat.PNG" width="30%">  
+<img src="/figures/slow_wave_rat.PNG" width="50%">  
 
   ## Project Goals  
   The main goal of thos project is to develop a real-time algorithm that is able to detect the peaks of the intestinal slow waves in real-time and deliver a stimulus in synchrony with peaks. The requirement of the algorithm are as follows:  
