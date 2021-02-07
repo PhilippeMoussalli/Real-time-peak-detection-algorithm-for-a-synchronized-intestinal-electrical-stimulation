@@ -26,5 +26,6 @@ The epidemic of obesity has seen a rise in numbers throughout the last decades d
   For a given (Quasi)-periodic signal, a peak should have a higher amplitude than a certain number of datapoint before and afer it. This number is termed the **optimal scale** and it was derived using the **Automatic Multi-scale peak detection algorithm (AMPD)**. For more details on the working mechanism of the algorithm please refere to [1]. Insert figure  
   
   The maximal scale (\Lambda)  $\lambda$ $\Lambda$
+  \hat{\imath} $\rightarrow$ $\hat{\imath}$, \hat{\jmath}
   
   
