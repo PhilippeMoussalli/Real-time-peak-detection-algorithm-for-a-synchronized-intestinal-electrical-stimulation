@@ -22,13 +22,13 @@ The epidemic of obesity has seen a rise in numbers throughout the last decades d
   * High accuracy: reflected by a high sensitivity to the algorithm and low number of missed peaks
   
   ## Methodolgy and implementation  
-Please refer to the attached (document)[SIES.pdf] for a full description relating to the implementation of the non-adaptive and adaptive version of the algorithm.  
+Please refer to the attached [document](SIES.pdf) for a full description relating to the implementation of the non-adaptive and adaptive version of the algorithm.  
 
 ## Results 
 
 ### Visual illustration of the real-time peak detection algorithm 
-* Click (here)[rat_illustration.mp4) for a visual illustration of the non-adaptive algorithm for rat intestinal slow waves.
-* Click (here)[Dog_illustration.mp4) for a visual illustration of the non-adaptive algorithm for dog intestnial slow waves.
+* Click [here](rat_illustration.mp4) for a visual illustration of the non-adaptive algorithm for rat intestinal slow waves.
+* Click [here](Dog_illustration.mp4) for a visual illustration of the non-adaptive algorithm for dog intestnial slow waves.
 ### Accuracy results for dog and rats for dogs and rats for different noise levels
 An overall accuracy of 90% can be acheived with an overall delay of less than 10% of the slow wave cycle.  
 <img src="/figures/dog_results.PNG" width="70%">  
