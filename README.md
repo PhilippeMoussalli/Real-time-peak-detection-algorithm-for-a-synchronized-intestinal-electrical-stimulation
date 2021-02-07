@@ -3,7 +3,7 @@
 Porject in collaboration with the Univerity of Michigan and Transtimulation Research Inc.  
    ## Background
 The epidemic of obesity has seen a rise in numbers throughout the last decades due to the increase of economic growth, indutrialization and adoption of a sedentary lifestyle. It affects around a third of the current world population and is considered a risk factor for a wide variety of diseases such as cardiovascular, immunological and neurological problems as well as an increase risk of developing type 2 diabetes (T2D).  
-**Intestinal electrical stimulation (IES)** has been proposed as a method for treating obesity and diabetes due to the various physiological mechanisms associated with it that alleviate and treats diabetes and obesity:  
+**Intestinal electrical stimulation (IES)** has been proposed as a method for treating obesity and diabetes due to the various physiological mechanisms associated with it that alleviates and treats diabetes and obesity:  
 * Reduction in food intake due to delayed gastric emptying  
 * Reduction in intestinal absorption due to the enhanced contratility of the smooth muscles of the intestines that accelarates the movements of the chyme (mixed food)  
 * Increase in GLP-1 release which in turn stimulates the production and secretion of insuline  
