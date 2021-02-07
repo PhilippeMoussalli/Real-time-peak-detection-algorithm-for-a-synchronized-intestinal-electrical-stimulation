@@ -8,7 +8,7 @@ The epidemic of obesity has seen a rise in numbers throughout the last decades d
 * Reduction in intestinal absorption due to the enhanced contratility of the smooth muscles of the intestines that accelarates the movements of the chyme (mixed food)  
 * Increase in GLP-1 release which in turn stimulates the production and secretion of insuline  
 * Decrease in Ghrelin (Hunger hormone) that causes more insulin to be secreted in the blood  
-<img src="/figures/IES.PNG" width="30%">
+<img src="/figures/IES.PNG" width="45%">
 
 **Synchronized intestinal electical stimulation** has been proposed as a variant of IES where the electrical stimulation is delivered in synchrony with the peaks of the intestinal slow waves of the intestines to accelerate and enhance the effect of IES (in IES, the electrical stimulation is delivered at a random phase).  
 
