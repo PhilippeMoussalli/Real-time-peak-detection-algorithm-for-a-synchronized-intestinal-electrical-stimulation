@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1595600175 source:c:\users\philippe\desktop\usa internship\amdp\cimplementation\ampd_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<math.h>
+	<unistd.h>
+

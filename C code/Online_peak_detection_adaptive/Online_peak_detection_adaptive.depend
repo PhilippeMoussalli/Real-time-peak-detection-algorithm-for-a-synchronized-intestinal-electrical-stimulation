@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1597393928 source:c:\users\philippe\desktop\usa internship\amdp\cimplementation\online_peak_detection_adaptive\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<math.h>
+	<unistd.h>
+	<stdbool.h>
+
