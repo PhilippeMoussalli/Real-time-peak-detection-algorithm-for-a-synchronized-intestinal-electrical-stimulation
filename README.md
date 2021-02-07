@@ -25,15 +25,27 @@ The epidemic of obesity has seen a rise in numbers throughout the last decades d
   ## Methodolgy and implementation  
 Please refer to the attached [document](SIES.pdf) for a full description relating to the implementation of the non-adaptive and adaptive version of the algorithm.  
 
-## Results 
+## SIES Results 
 
-### Visual illustration of the real-time peak detection algorithm 
+### 1) Algorithm results
+#### Visual illustration of the real-time peak detection algorithm 
 * Click [here](/figures/rat_illustration.mp4) for a visual illustration of the non-adaptive algorithm for rat intestinal slow waves.
 * Click [here](/figures/Dog_illustration.mp4) for a visual illustration of the non-adaptive algorithm for dog intestnial slow waves.
-### Accuracy results for dog and rats for dogs and rats for different noise levels
+#### Accuracy results for dog and rats for dogs and rats for different noise levels
 An overall accuracy of 90% can be acheived with an overall delay of less than 10% of the slow wave cycle.  
 <img src="/figures/dog_results.PNG" width="60%">  
   
 <img src="/figures/rat_results.PNG" width="60%">
+
+### 2) Physiological results  
+Results from submitted paper following the experimental trial of the algorithm on rats: "CLOSED-LOOP INTESTINAL ELECTRICAL STIMULATION SYNCHRONIZED WITH INTRINSIC INTESTINAL SLOW WAVE AMELIORATES GLUCAGON-INDUCED HYPERGLYCEMIA IN RATS VIA ENHANCED RELEASE OF GLP-1" Paper in processdings for DDW 2021.
+
+The results demonstrated that:
+* Compared to sham (no stimulation), IES and SIES significantly reduced postprandial blood glucose at 30 min by 17% and 20%, respectively. SIES showed a further inhibitory effect at 60 min (147 vs. 171 mg/dl, P=0.001, vs. sham).  
+* Compared to sham (137 pg/ml), GLP-1 at 30 min was increased in both IES (157 pg/ml) and SIES (169 pg/ml). GLP-1 level was still high at 60 min in rats with SIES while those in sham and IES groups returned to the basal level.  
+* At 30 min, the plasma insulin level was 18.8 µIU/ml with SIES, which was significantly higher than that with sham (7.1 µIU/ml, p<0.001) and that with IES (13.2 µIU/ml, P=0.046).  
+  To conclude:  
+  Compared to IES, synchronized IES is more effective in reducing postprandial blood glucose in rats with glucagon-induced acute hyperglycemia by enhancing the release of GLP-1 and insulin.
+
 
   
