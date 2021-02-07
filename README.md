@@ -43,8 +43,10 @@ Results from submitted paper following the experimental trial of the algorithm o
 The results demonstrated that:
 * Compared to sham (no stimulation), IES and SIES significantly reduced postprandial blood glucose at 30 min by 17% and 20%, respectively. SIES showed a further inhibitory effect at 60 min (147 vs. 171 mg/dl, P=0.001, vs. sham).  
 * Compared to sham (137 pg/ml), GLP-1 at 30 min was increased in both IES (157 pg/ml) and SIES (169 pg/ml). GLP-1 level was still high at 60 min in rats with SIES while those in sham and IES groups returned to the basal level.  
-* At 30 min, the plasma insulin level was 18.8 µIU/ml with SIES, which was significantly higher than that with sham (7.1 µIU/ml, p<0.001) and that with IES (13.2 µIU/ml, P=0.046).    
-  *To conclude:*      
+* At 30 min, the plasma insulin level was 18.8 µIU/ml with SIES, which was significantly higher than that with sham (7.1 µIU/ml, p<0.001) and that with IES (13.2 µIU/ml, P=0.046).  
+  
+ **To conclude:**  
+   
   Compared to IES, synchronized IES is more effective in reducing postprandial blood glucose in rats with glucagon-induced acute hyperglycemia by enhancing the release of GLP-1 and insulin.
 
 
