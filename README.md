@@ -31,7 +31,8 @@ Please refer to the attached [document](SIES.pdf) for a full description relatin
 #### Visual illustration of the real-time peak detection algorithm 
 * Click [here](/figures/rat_illustration.mp4) for a visual illustration of the non-adaptive algorithm for rat intestinal slow waves.
 * Click [here](/figures/Dog_illustration.mp4) for a visual illustration of the non-adaptive algorithm for dog intestnial slow waves.  
-
+  
+  <img src="/figures/final_result.PNG" width="60%"> 
 #### Accuracy results for dog and rats for dogs and rats for different noise levels
 An overall accuracy of >90% can be acheived with an overall delay of less than 10% of the slow wave cycle.  
 
